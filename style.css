@@ -1,0 +1,8 @@
+.hinh {
+  position: relative;
+}
+.explain {
+  position: absolute;
+  top: 200px;
+  width: 100%;
+}
